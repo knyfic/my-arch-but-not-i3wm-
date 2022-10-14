@@ -10,9 +10,9 @@
 <br> 
 <br> 
 <br> **it will look like this** :
-<br>  
+<br>  wallpaper: = https://imgur.com/7vsZW1U
 <br> ![xfce4](https://user-images.githubusercontent.com/109595809/195419401-1632c9a0-ed02-4892-aab1-f69bd8597d5e.png)
-<br>wallpaper: = https://imgur.com/7vsZW1U
+<br>>wallpaper = https://imgur.com/8FqejjF
 <br>![resim](https://user-images.githubusercontent.com/109595809/195919784-343a314e-314e-4d30-a621-3acfc906bd95.png)
-<br>wallpaper = https://imgur.com/8FqejjF
+<br
 <br>easy and beautiful
